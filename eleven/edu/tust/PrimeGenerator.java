@@ -1,4 +1,4 @@
-package edu.tust;
+package eleven.edu.tust;
 
 public class PrimeGenerator extends Thread{
     private long maxNum = Long.MAX_VALUE;

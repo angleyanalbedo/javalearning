@@ -1,4 +1,4 @@
-package com.baidu;
+package twelve.com.baidu;
 
 public class ThreadCommonTest {
     public static void main(String[] args) {

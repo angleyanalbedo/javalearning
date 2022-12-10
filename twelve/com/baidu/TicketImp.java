@@ -1,4 +1,4 @@
-package com.baidu;
+package twelve.com.baidu;
 
 public class TicketImp implements Runnable {
     private int count;

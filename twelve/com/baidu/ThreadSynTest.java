@@ -1,4 +1,4 @@
-package com.baidu;
+package twelve.com.baidu;
 
 public class ThreadSynTest {
     public static void main(String[] args) {

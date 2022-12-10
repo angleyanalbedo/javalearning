@@ -1,4 +1,4 @@
-package edu.tust;
+package eleven.edu.tust;
 
 public class PrimeImpl implements Runnable {
     private int maxNum;

@@ -1,4 +1,7 @@
-import edu.tust.*;
+package eleven;
+
+import eleven.edu.tust.PrimerThread;
+
 public class TestPrimeThread {
     public static void main(String[] args) {
         Thread th1 = new PrimerThread(70);

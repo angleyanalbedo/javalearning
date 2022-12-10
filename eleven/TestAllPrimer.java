@@ -1,4 +1,7 @@
-import edu.tust.*;
+package eleven;
+
+import eleven.edu.tust.PrimeGenerator;
+import eleven.tust.*;
 public class TestAllPrimer {
 
     public static void main(String[] args) {

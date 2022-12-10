@@ -1,4 +1,6 @@
-import edu.tust.PrimeImpl;
+package eleven;
+
+import eleven.edu.tust.PrimeImpl;
 
 public class TestPrime {
     public static void main(String[] args) {

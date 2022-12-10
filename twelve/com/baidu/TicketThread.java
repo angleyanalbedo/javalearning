@@ -1,4 +1,4 @@
-package com.baidu;
+package twelve.com.baidu;
 
 public class TicketThread extends Thread{
     private int count;

@@ -1,4 +1,4 @@
-package edu.tust;
+package eleven.edu.tust;
 
 public class PrimerThread extends Thread{
     private int maxNum;
